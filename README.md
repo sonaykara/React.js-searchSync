@@ -1,4 +1,4 @@
-# E-Ticaret Web Sitesi
+# Seacr App
 
 Bu proje, React.js kullanarak geliştirilmiş bir serach uygulamasıdır. Kullanıcılar, istediği bir konuda, Google, Google books, Yandex, Google scholar (akademik makale) platformlarda seçtikleri dosya tipinde (Pdf, Word, Excel, PowerPoint) arama yapabilir.
 <br><br>
