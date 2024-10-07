@@ -34,7 +34,7 @@ Bu proje, React.js kullanarak geliştirilmiş bir serach uygulamasıdır. Kullan
 
 ## Proje Gif
 
-![](/src/searchSync.gif)
+![](/searchSync/src/serachSync.gif)
 <br> <br>
 
 <a name="dev"></a>
