@@ -8,7 +8,7 @@ Bu proje, React.js kullanarak geliştirilmiş bir serach uygulamasıdır. Kullan
 
 [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
 
-[Projeyi Çalıştırma](#calistirma)  
+[Projeyi Çalıştırma](#dev)  
 
 
 <br><br>
@@ -37,7 +37,7 @@ Bu proje, React.js kullanarak geliştirilmiş bir serach uygulamasıdır. Kullan
 ![](/src/e-ticaret.gif)
 <br> <br>
 
-<a name="calistirma"></a>
+<a name="dev"></a>
 
 ## Çalıştırma
 1. Bağımlılıkları yükleyin: `npm install` veya `yarn install`
