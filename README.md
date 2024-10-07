@@ -1,8 +1,44 @@
-# React + Vite
+# E-Ticaret Web Sitesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React.js kullanarak geliştirilmiş bir serach uygulamasıdır. Kullanıcılar, istediği bir konuda, Google, Google books, Yandex, Google scholar (akademik makale) platformlarda seçtikleri dosya tipinde (Pdf, Word, Excel, PowerPoint) arama yapabilir.
+<br><br>
 
-Currently, two official plugins are available:
+## İçindekiler  
+[Özellikler](#özellikler)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+
+[Projeyi Çalıştırma](#calistirma)  
+
+
+<br><br>
+
+<a name="özellikler"></a>
+
+## Özellikler
+
+- **Arama :** Kullanıcılar istediği konuda arama yapabilir.
+- **Dosya Tipi Seçme:** İstenilen dosya tipi seçilebilir.
+
+<br><br>
+<a name="#kullanılan-teknolojiler"></a>
+
+## Kullanılan Teknolojiler
+
+- [React.js](https://reactjs.org/)
+- [Tailwind Css](https://tailwindcss.com/)
+
+
+<br> <br>
+
+
+## Proje Gif
+
+![](/src/e-ticaret.gif)
+<br> <br>
+
+<a name="calistirma"></a>
+
+## Çalıştırma
+1. Bağımlılıkları yükleyin: `npm install` veya `yarn install`
+2. Uygulamayı başlatın: `npm run dev`
